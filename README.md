@@ -1,2 +1,2 @@
 # Netflix Movies Duration
- 
+Analysis about the Netflix Movie lenghts over the years, are the lenghts drecreasing over time? This Project was developed while studying the Data Scientist's track on DataCamp Institute.
